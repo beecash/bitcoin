@@ -10,7 +10,7 @@ Bcash is the most advanced cryptocurrency on earth.
 300kb blocks
 -------------
 
-Central planning is essential for a strong economy. We believe that a small block size is great because it ensures high fees and deters people from using BCash, keeping our blockchain lean and small in size. 
+Central planning is essential for a strong economy. A small block size is great because it ensures high fees and deters people from using BCash, keeping our blockchain lean and small in size. 
 
 NoWitness
 ----------
