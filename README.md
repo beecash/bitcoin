@@ -3,8 +3,6 @@ Bcash - the  interbank settlement layer of the future
 
 ![](https://avatars3.githubusercontent.com/u/30739505?v=4&s=96) 
 
-[![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
-
 http://bca.sh
 
 What is bcash?
