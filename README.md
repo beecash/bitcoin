@@ -1,6 +1,8 @@
 Bcash - the  interbank settlement layer of the future
 =============
 
+![](https://avatars3.githubusercontent.com/u/30739505?v=4&s=96) 
+
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
 http://bca.sh
@@ -14,12 +16,12 @@ Bcash is the most advanced cryptocurrency on earth.
 300kb blocks
 ------------
 
-Central planning is essential for a strong economy. We believe that a small block size is great because it ensures high transaction fees. This will encourage people to avoid using BCash, keeping our blockchain lean and small in size. 
+Central planning is essential for a strong economy. We believe that a small block size is great because it will ensures high  fees and encourage people to avoid using BCash, keeping our blockchain lean and small in size. 
 
 NoWitness
 ---------
 
-According to Twitter polls, 90% of users do not verify signatures. We decided to remove all signatures from bcash. Thanks to this space-saving optimization, you can now run a full bcash node on your iwatch, keeping the network decentralized.
+According to Twitter polls, 90% of users do not verify signatures. This is why we removed all signatures from bcash. Thanks to this space-saving optimization, you can now run a full bcash node on your iwatch, keeping the network decentralized.
 
 
 Vision
