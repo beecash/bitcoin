@@ -20,7 +20,7 @@ According to Twitter polls, 90% of users do not verify signatures, therefore we 
 2nd layer solutions
 -------------------
 
-We are working with private banks to build the payment solutions of the future. It may sound like science fiction, but one day you will be able to deposit dollars at a bank and later transfer it to other bank clients, all while the decentralized bcash network runs quietly in the backround.
+We are working with banks to build the payment solutions of the future. One day you will be able to deposit dollars at a bank and later transfer it to other bank clients, all while the decentralized bcash network runs quietly in the backround.
 
 Proof of Work
 -------------
