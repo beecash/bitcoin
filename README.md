@@ -1,4 +1,4 @@
-Bcash - the bank of tomorrow
+Bcash - the  interbank settlement layer of the future
 =============
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
@@ -25,7 +25,7 @@ According to Twitter polls, 90% of users do not verify signatures. We decided to
 Vision
 ------
 
-Bcash will be the interbank settlement layer of the future. Our project is based on the vision of luminaries like Lukejr:
+Our project is based on the vision of luminaries like Lukejr:
 
 *"Slavery is still moral (unless prohibited by law, in which case it's the sin of disobedience)."* - Luke-jr
 
