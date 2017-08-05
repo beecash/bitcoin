@@ -25,7 +25,7 @@ We are working with private banks to build the payment solutions of the future. 
 Proof of Work
 -------------
 
-Miners can be a threat to the security of bcash. Therefore, we are committed to changing the proof of work algorthm any time miners do not agree with out changes to the protocol, in order to avoid centralization.
+Miners can be a threat to the security of bcash. Therefore, we are committed to changing the proof of work algorthm any time miners do not agree with out changes to the protocol, in order to avoid miner centralization.
 
 Vision:
 -------
