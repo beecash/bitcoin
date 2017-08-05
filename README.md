@@ -19,7 +19,7 @@ Central planning is essential for a strong economy. We believe that a small bloc
 NoWitness
 ---------
 
-According to Twitter polls, 90% of users do not verify signatures. This is why we removed all signatures from bcash. Thanks to this space-saving optimization, you can now run a full bcash node on your iwatch, keeping the network decentralized.
+According to Twitter polls, 90% of users do not verify signatures. Therefore we removed all signatures from bcash. Thanks to this space-saving optimization, you can now run a full bcash node on your iwatch, keeping the network decentralized.
 
 
 Vision
