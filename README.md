@@ -9,19 +9,19 @@ What is bcash?
 Bcash is the most advanced cryptocurrency on earth.
 
 
-300kb blocks
-------------
+300kb blocks.
+-------------
 
 Central planning is essential for a strong economy. We believe that a small block size is great because it ensures high fees and deters people from using BCash, keeping our blockchain lean and small in size. 
 
-NoWitness
----------
+NoWitness.
+----------
 
 According to Twitter polls, 90% of users do not verify signatures, therefore we removed all signatures from bcash. Thanks to this space-saving optimization, you can now run a full bcash node on your iwatch, keeping the network decentralized.
 
 
-Vision
-------
+Vision:
+-------
 
 Our project is based on the vision of luminaries like Lukejr:
 
