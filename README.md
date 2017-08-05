@@ -10,13 +10,22 @@ Bcash is the most advanced cryptocurrency on earth.
 300kb blocks
 -------------
 
-Central planning is essential for a strong economy. A small block size is great because it ensures high fees and deters people from using BCash, keeping our blockchain lean and small in size. 
+Central planning is essential for a strong economy. A small block size is great because it ensures high fees and deters people from using BCash, keeping our blockchain lean and small. 
 
 NoWitness
 ----------
 
 According to Twitter polls, 90% of users do not verify signatures, therefore we removed all signatures from bcash. Thanks to this space-saving optimization, you can now run a full bcash node on your iwatch, keeping the network decentralized.
 
+2nd layer
+---------
+
+We are working with private banks to build the payment solutions of the future. One day, you will be able to deposit dollars at a bank and then transfer it to other bank clients, while the decentralized bcash network runs quietly in the backround.
+
+Proof of Work
+-------------
+
+Miners can be a threat to the security of bcash. Therefore, we are committed to changing the proof of work algorthm any time miners do not agree with out changes to the protocol, in order to avoid centralization.
 
 Vision:
 -------
